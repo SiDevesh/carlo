@@ -1,8 +1,8 @@
 {
-  "name": "carlo",
+  "name": "carlo-quark-fork",
   "version": "0.9.46",
-  "description": "Carlo is a framework for rendering Node data structures using Chrome browser.",
-  "repository": "github:GoogleChromeLabs/carlo",
+  "description": "Carlo is a framework for rendering Node data structures using Chrome browser, forked to include fixes for Quark project",
+  "repository": "github:SiDevesh/carlo",
   "engines": {
     "node": ">=7.6.0"
   },
